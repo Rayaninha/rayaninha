@@ -15,4 +15,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg"  width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="50px"/>
 
 ---
-![Rayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayaninha&show_icons=true&theme=dracula)
+![Rayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayaninha&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayaninha&hide_progress=true)
